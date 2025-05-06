@@ -4,7 +4,7 @@ const mywork_data = [
     w_name: "Portfolio",
     w_desc: "Welcome to my web developer portfolio.",
     w_img: "/portfolio.jpeg?height=300&width=400",
-    w_link: "https://github.com/gaurav0031/PORTFOLIO-__",
+    w_link: "https://github.com/gaurav0031/Portfolio",
     w_tech: ["React", "Tailwind CSS", "Framer Motion"],
   },
   {
